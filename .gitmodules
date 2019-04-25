@@ -1,0 +1,4 @@
+[submodule "dansanti/l10n_cl_dte_point_of_sale"]
+	path = dansanti/l10n_cl_dte_point_of_sale
+	url = git@github.com:dansanti/l10n_cl_dte_point_of_sale.git
+	branch = 9.0
