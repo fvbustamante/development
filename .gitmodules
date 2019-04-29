@@ -1,0 +1,4 @@
+[submodule "odoocoop/facturacion_electronica"]
+	path = odoocoop/facturacion_electronica
+	url = git@github.com:odoocoop/facturacion_electronica.git
+	branch = 12.0
